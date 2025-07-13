@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+pandas
+nba_api
+matplotlib
+scikit-learn
+missingno
+scipy
+openpyxl
