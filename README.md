@@ -9,6 +9,8 @@ This project is part of my portfolio to demonstrate proficiency in:
 - Web scraping and API interaction
 - Writing modular and readable code for real-world scenarios
 
+In the subfolders, you will find separate readme's for each program.
+
 ---
 
 ## Getting Started
